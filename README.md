@@ -14,7 +14,7 @@
   2. Run codes
     You can run codes as follows.
 
-    ```python causal_impact.py```
+    ```python causalimpact_example.py```
 
   3. Confirm results
     Confirm your results for causalimpact. Detailed explanation is described in the following link (https://zenn.dev/pe/articles/12be20efdaed40).
