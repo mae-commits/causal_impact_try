@@ -18,3 +18,11 @@
 
   3. Confirm results
     Confirm your results for causalimpact. Detailed explanation is described in the following link (https://zenn.dev/pe/articles/12be20efdaed40).
+
+## References
+
+- tfcausalimpact package
+  https://github.com/WillianFuks/tfcausalimpact
+
+- Dataset
+  https://cran.r-project.org/web/packages/Ecdat/Ecdat.pdf
