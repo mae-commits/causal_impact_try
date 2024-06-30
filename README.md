@@ -9,12 +9,12 @@
   1. Package installation
     You can install packages from `requirements.txt` whose versions are sames as those showed in my blog ( https://zenn.dev/pe/articles/12be20efdaed40 ).
 
-    ```pip install -r requirements.txt```
+    pip install -r requirements.txt
 
   2. Run codes
     You can run codes as follows.
 
-    ```python causalimpact_example.py```
+    python causalimpact_example.py
 
   3. Confirm results
     Confirm your results for causalimpact. Detailed explanation is described in the following link (https://zenn.dev/pe/articles/12be20efdaed40).
@@ -22,7 +22,9 @@
 ## References
 
 - tfcausalimpact package
+  
   https://github.com/WillianFuks/tfcausalimpact
 
 - Dataset
+  
   https://cran.r-project.org/web/packages/Ecdat/Ecdat.pdf
